@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <John Brunori> -- <Leader>
 
 # THANKS
 
-    <name>
+    <John Brunori>
 
 # TECHNOLOGY COLOPHON
 
